@@ -1,2 +1,7 @@
 # R-Machine-Learning
-Machine Learning Programs in R
+
+The project contains 4 machine learning models in python
+- Decision tree
+- Linear Regression
+- Logistic Regression
+- Combined Model
